@@ -14,13 +14,17 @@ Please refer the the comments in all files to follow edits.
 
 The following sites assisted in creating the site:
 BitHacker: https://bithacker.dev/fetch-weather-openweathermap-api-javascript
+
 Dev.To: https://dev.to/pratham82/using-fetch-api-in-node-js-with-weather-api-3a7d
+
 Stackoverflow: https://stackoverflow.com/questions/70450660/save-dates-to-local-storage 
 https://stackoverflow.com/questions/39735496/redirect-after-a-fetch-post-call
 https://stackoverflow.com/questions/48128170/calculate-average-of-temperatures-and-math-round 
 https://stackoverflow.com/questions/75390767/fetch-weatherapi-com-with-async-await-react-hooks
+
 OpenWeather: https://home.openweathermap.org/api_keys 
 https://openweathermap.org/current
+
 MDN Web Docs: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Functions 
 
 ## License
