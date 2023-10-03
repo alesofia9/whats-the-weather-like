@@ -7,7 +7,7 @@ Beta site with colorful background display of current weather when user generate
 
 ## Installation
 
-Use the link to access the site: 
+Use the link to access the site: https://alesofia9.github.io/whats-the-weather-like/
 
 ## Usage
 
