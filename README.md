@@ -2,6 +2,9 @@
 
 Beta site with colorful background display of current weather when user generates a search. Displays city's current weather, wind speed, and humidity levels. Days of the Week are listed below to show a weekly forecast.
 
+<img width="689" alt="Screenshot 2023-10-02 at 11 00 02 PM" src="https://github.com/alesofia9/whats-the-weather-like/assets/141460899/6eaa8858-1688-405b-abee-446f8e181736">
+
+
 ## Installation
 
 Use the link to access the site: 
